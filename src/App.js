@@ -15,7 +15,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0
 const particlesOptions = {
   particles: {
     number: {
-      value: 60,
+      value: 80,
       density: {
         enable: true,
         value_area: 800
