@@ -9,7 +9,7 @@ Face Recognizer is a web app that uses the Clarifai API to locate a face in a pi
 ### Front-End
 - HTML5
 - CSS3
- - React.js
+- React.js
 
 ### NPM Packages
 - Create-React-App
